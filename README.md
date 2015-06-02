@@ -1,4 +1,4 @@
-# Web_Scraper_NY_Times_with_MongoDB
+# Web Scraper for NY Times with MongoDB
 <b>Lightweight NLP web scraper of NY Times with MongroDB</b>
 
 In the following illustration, we will be using the NYT API to programmatically retrieve its articles.
@@ -58,3 +58,6 @@ The NYT is rate limited. Deal with it. The API only lets you access a fixed numb
     What is this number and how can you get around this limit?
 
 Once you have figured how to deal with the NYT quirks, we are ready to start looping. Begin to download the 10,000 most recent NYT articles. You will want to check how your loop is progressing, be sure to print some checkpoint information on how many documents it has downloaded (maybe every 100 articles?).
+
+
+<i>Based on material in Galvanize.com Data Science program.</i>
