@@ -1,6 +1,7 @@
 # Web Scraper for NY Times with MongoDB
 <b>Lightweight NLP web scraper of NY Times with MongroDB</b>
 
+
 In the following illustration, we will be using the NYT API to programmatically retrieve its articles.
 
 <b>Objective:</b>
